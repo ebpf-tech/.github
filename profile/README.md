@@ -1,5 +1,3 @@
-# Welcome to ebpf tech
-
 ![logo-white](https://github.com/ebpf-tech/.github/assets/11388205/71b9c3c0-b25f-488e-adb1-4b4e621093b8)
 
 ## About Us
